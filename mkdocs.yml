@@ -8,7 +8,6 @@ nav:
           - task1: labs/lab2/task1.md
           - task2: labs/lab2/task2.md
       - Лаб3: labs/lab3/lab3.md
-  - Практики: practices/index.md
 
 theme:
   name: material
