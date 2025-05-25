@@ -22,3 +22,8 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+
+
+#Async sum: 5000000050000000
+#Execution time: 0.7945249080657959 seconds

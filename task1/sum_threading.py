@@ -27,3 +27,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+#Total sum: 5000000050000000
+#Execution time: 0.9064211845397949 seconds

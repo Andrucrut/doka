@@ -44,3 +44,5 @@ if __name__ == "__main__":
     asyncio.run(run_all())
     end = time.perf_counter()
     print(f"Completed in {end - start:.3f} seconds")
+
+#Completed in 0.575 seconds

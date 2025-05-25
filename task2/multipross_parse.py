@@ -46,3 +46,5 @@ if __name__ == "__main__":
     run_parallel()
     t1 = time.perf_counter()
     logging.info(f"Completed in {t1 - t0:.3f} seconds")
+
+#Completed in 1.687 seconds

@@ -34,3 +34,5 @@ if __name__ == "__main__":
     run_threads()
     t1 = time.perf_counter()
     print(f"Completed in {t1 - t0:.3f} seconds")
+
+#Completed in 1.357 seconds
